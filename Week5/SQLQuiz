@@ -1,0 +1,26 @@
+Q) Structured Query Language (SQL) is used to (check all that apply)
+A)Delete data | Create a Table | Insert Data
+
+Q) Which of these is the correct syntax to make a new database using command line?
+A)CREATE DATABASE people;
+
+Q) "INSERT INTO" is the keyword used to insert data into tables.
+A)True
+
+Q) Which keyword is used to add conditions to your query?
+A)WHERE
+
+Q) Which command is used to retrieve all records from the table Users?
+A)SELECT * FROM Users
+
+Q) Which keyword will cause the results of the query to be displayed in sorted order?
+A)ORDER BY
+
+Q) The LIMIT clause helps to narrow down the number of rows returned by the query.
+A)True
+
+Q) Images, PDFs, and movies cannot be stored in a database.
+A)False
+
+Q) A primary key can be set to null.
+A)False

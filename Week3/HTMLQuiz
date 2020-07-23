@@ -1,0 +1,29 @@
+Q) What is true about the following HMTL?
+A) The reference is an absolute reference
+
+Q) What do you put at the beginning of an HTML file to inform the browser which variant of HTML you will be using in this document?
+A) DOCTYPE
+
+Q) What is the preferred tag in modern HTML to indicate that text is to be shown in bold format?
+A) strong
+
+Q) What is the preferred tag in modern HTML to indicate that text is to be shown in italics format?
+A) em
+
+Q) What organization is responsible for standards for HTML and the web?
+A) World Wide Web Consortium
+
+Q) What is the HTML tag for an item in a bulletted list?
+A) li
+
+Q) Which is the correct ordering of opening tags in a well-formed html document?
+A) html head title body h1
+
+Q) What is the start of an HTML comment?
+A) <!--
+
+Q) What tag is used in a document's <head> area to set the text shown in the tab of the browser or title bar?
+A) title
+
+Q) In HTML, what attribute is used to indicate text that will be shown if an image is not loaded or read to a user who is using a screen reader?
+A) alt

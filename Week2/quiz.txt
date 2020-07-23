@@ -1,0 +1,14 @@
+Q) What is the name of the application we build in step 1 of "Writing your first Django app, part 1"?
+A) polls
+
+Q) What command do we run on PythonAnywhere instead of "python manage.py runserver"?
+A) python manage.py check - and then reload the web application
+
+Q) What command is used to add a new application to a Django project?
+A) python manage.py startapp
+
+Q) In the mysite/urls.py file, what is the basic idea of "include"?
+A) To make it easy to plug-and-play URLs
+
+Q) What is the purpose of the admin site in a Django project?
+A) It lets you add, change, and delete data items
